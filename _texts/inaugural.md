@@ -200,6 +200,4 @@ I have now again given way to my feelings, in speaking without reserve, accordin
 
 which will conduce to their temporal & eternal peace—I most earnestly supplicate that Almighty God, to whose holy keeping I commend my dearest Country, will never offer so fair an inheritance to become a prey to avar [NcD: Rolfe Smith Saunders Papers, Autograph Album]
 
-[^fn1]: 
-
-The annotations to this document, and any other modern editorial content, are copyright © The Rector and Visitors of the University of Virginia. All rights reserved.
+[^fn1]: The annotations to this document, and any other modern editorial content, are copyright © The Rector and Visitors of the University of Virginia. All rights reserved.
