@@ -816,4 +816,8 @@ ol.bibliography {
     text-align: center;
 }
 
+.doc-owner {
+    font-size: 0.4em;
+    font-style: italic;
+}
 
