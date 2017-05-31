@@ -4,16 +4,16 @@ title: Undelivered First Inaugural Address: Fragments, 30 April 1789
 author: George Washington
 source: Founder's Online
 ---
-- In the fragments of the discarded inaugural address, page numbers without brackets appear on the fragment; those page numbers enclosed in brackets are conjectural.
-[1]
-- We are this day assembled on a solemn and important occasion—[owned (1974) by Mr. Nathaniel E. Stein, New York]
-[1–3]
+ In the fragments of the discarded inaugural address, page numbers without brackets appear on the fragment; those page numbers enclosed in brackets are conjectural.
+ [1]
+ We are this day assembled on a solemn and important occasion—[owned (1974) by Mr. Nathaniel E. Stein, New York]
+ [1–3]
 - not as a ceremony without meaning, but with a single reference to our dependence [recto, privately owned (2014), photocopy supplied by Ronnie Paloger] upon the Parent of all good—it becomes a pleasing commencement of my Office to offer my heart-felt congratulations on the happy [recto, end of page; privately owned (1958), photocopy supplied by Mr. Nathaniel E. Stein]
-[1–3]
+ [1–3]
 - We are now to take upon ourselves the conduct of that government. But be [verso, privately owned (2014), photocopy supplied by Ronnie Paloger] -fore we entered upon the performance of our several functions, it seemed to be our indispensable part, as rational Beings [verso, end of page; privately owned (1958), photocopy supplied by Mr. Nathaniel E. Stein]
-[1–4]
+ [1–4]
 - fairs. It will doubtless be conceded [verso (?); privately owned (1958), photocopy supplied by Mr. Nathaniel E. Stein]
-[1–4]
+ [1–4]
 - been happily diffused & fostered among ⟨their⟩ [recto (?); privately owned (1958), photocopy supplied by Mr. Nathaniel E. Stein]
 [1–4]
 - reputation and a decent respect for the sentiments of others, require that something should be said by way of apology for my [photocopy, DLC:GW]
