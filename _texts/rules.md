@@ -2,7 +2,7 @@
 layout: narrative
 title: Rules of Civility
 author: George Washington
-source: Poetry Foundation
+source: Founder's Online
 ---
 Undelivered First Inaugural Address: Fragments, 30 April 1789
 Undelivered First Inaugural Address: Fragments
