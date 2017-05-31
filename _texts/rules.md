@@ -1,5 +1,5 @@
 ---
-layout: poem
+layout: narrative
 title: Rules of Civility
 author: George Washington
 source: Poetry Foundation
