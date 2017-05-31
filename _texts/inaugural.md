@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Undelivered First Inaugural Address: Fragments, 30 April 1789
+title: 'Undelivered First Inaugural Address: Fragments, 30 April 1789'
 author: George Washington
 source: Founder's Online
 ---
