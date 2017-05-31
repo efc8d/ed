@@ -4,7 +4,9 @@ title: 'Undelivered First Inaugural Address: Fragments, 30 April 1789'
 author: George Washington
 source: Founder's Online
 ---
- In the fragments of the discarded inaugural address, page numbers without brackets appear on the fragment; those page numbers enclosed in brackets are conjectural.
+[The Founder's Online version](http://founders.archives.gov/documents/Washington/05-02-02-0130-0002)[^fn1]
+
+In the fragments of the discarded inaugural address, page numbers without brackets appear on the fragment; those page numbers enclosed in brackets are conjectural.
  
 <p class="numbers">[1]</p>
  
@@ -197,3 +199,7 @@ I have now again given way to my feelings, in speaking without reserve, accordin
 <p class="numbers">[63–73]</p>
 
 which will conduce to their temporal & eternal peace—I most earnestly supplicate that Almighty God, to whose holy keeping I commend my dearest Country, will never offer so fair an inheritance to become a prey to avar [NcD: Rolfe Smith Saunders Papers, Autograph Album]
+
+[^fn]: 
+
+The annotations to this document, and any other modern editorial content, are copyright © The Rector and Visitors of the University of Virginia. All rights reserved.
