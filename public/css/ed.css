@@ -817,7 +817,8 @@ ol.bibliography {
 }
 
 .doc-owner {
-    font-size: 0.8em;
+    font-size: 0.7em;
     font-style: italic;
+    font-weight: bold;
 }
 
