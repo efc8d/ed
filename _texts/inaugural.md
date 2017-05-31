@@ -1,11 +1,9 @@
 ---
 layout: narrative
-title: Rules of Civility
+title: Undelivered First Inaugural Address: Fragments, 30 April 1789
 author: George Washington
 source: Founder's Online
 ---
-- Undelivered First Inaugural Address: Fragments, 30 April 1789
-- Undelivered First Inaugural Address: Fragments
 - In the fragments of the discarded inaugural address, page numbers without brackets appear on the fragment; those page numbers enclosed in brackets are conjectural.
 [1]
 - We are this day assembled on a solemn and important occasion—[owned (1974) by Mr. Nathaniel E. Stein, New York]
